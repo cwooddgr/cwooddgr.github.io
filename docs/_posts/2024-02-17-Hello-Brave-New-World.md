@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hello Brave New World"
 date: 2024-02-17 12:17:00 -0700
 categories: admin
 ---
