@@ -8,7 +8,7 @@ I decided to be clever and use AI (DALL-E) to create a banner image for this sit
 version of the classic "No Irish Need Apply" sign, from which the name of this site is derrived. But
 DALL-E is [notoriously bad at generating text](https://help.openai.com/en/articles/6781228-how-can-i-generate-text-in-my-image), as you can see in the image it created for me:
 
-![Stupid AI](/docs/assets/nhna-stupid-ai.png)
+![Stupid AI](/assets/nhna-stupid-ai.png)
 
 Which brings up a common criticism of current AI systems: sometimes they just don't work. They
 ["hallucinate" facts and references](https://cloud.google.com/discover/what-are-ai-hallucinations). They [can't get hands right](https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up). They don't really understand what they're doing&mdash;and are therefore stupid and useless. 
