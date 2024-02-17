@@ -20,12 +20,10 @@
 
 title: No Humans Need Apply 
 email: charlie.wood@gmail.com
-domain: cwooddgr.github.io
+domain: nohumansneedapply.blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Anything that can be done with a computer will be done by a computer. 
-  Plan accordingly.
-#baseurl: /cwooddgr.github.io/ # place folder name if the site is served in a subfolder
-url: "https://cwooddgr.github.io"  # the base hostname & protocol for your site
+  The AI revolution is upon us. Anything that can be done with a computer will be done by a computer. Plan accordingly.
+url: "https://nohumansneedapply.blog"  # the base hostname & protocol for your site
 github_username: cwooddgr 
 
 # Build settings
