@@ -24,7 +24,7 @@ domain: cwooddgr.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Anything that can be done with a computer will be done by a computer. 
   Plan accordingly.
-baseurl: /cwooddgr.github.io/ # place folder name if the site is served in a subfolder
+#baseurl: /cwooddgr.github.io/ # place folder name if the site is served in a subfolder
 url: "https://cwooddgr.github.io"  # the base hostname & protocol for your site
 github_username: cwooddgr 
 
