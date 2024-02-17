@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Age of Automatizaion 
+title: Age of Automatization 
 email: charlie.wood@gmail.com
 domain: cwooddgr.github.io
 description: >- # this means to ignore newlines until "baseurl:"
