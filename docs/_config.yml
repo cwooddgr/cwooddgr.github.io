@@ -29,7 +29,7 @@ url: "https://cwooddgr.github.io"  # the base hostname & protocol for your site
 github_username: cwooddgr 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
