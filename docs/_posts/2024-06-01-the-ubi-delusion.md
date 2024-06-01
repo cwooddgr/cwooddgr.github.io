@@ -10,7 +10,7 @@ find meaning in life after AI takes all the jobs. Notably, she doesn't wonder wh
 way to support themselves, and instead assumes that "people can meet their needs through universal basic
 income or other transfers".
 
-![UBI quote](../assets/ubi-quote.png)
+![UBI quote](/docs/assets/ubi-quote.png)
 
 I find this assumption to be wildly unrealistic, irresponsible, and dangerous. Anyone who believes 
 that America&mdash;which at this point in history can't even agree on the veracity of basic
