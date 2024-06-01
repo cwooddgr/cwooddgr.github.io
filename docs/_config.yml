@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: No Humans Need Apply 
+title: Interesting Times 
 email: charlie.wood@gmail.com
-domain: nohumansneedapply.blog
+domain: interestingtimes.blog
 description: >- # this means to ignore newlines until "baseurl:"
   The AI revolution is upon us. Anything that can be done with a computer will be done by a computer. Plan accordingly.
-url: "https://nohumansneedapply.blog"  # the base hostname & protocol for your site
+url: "https://interestingtimes.blog"  # the base hostname & protocol for your site
 #baseurl: /docs
 twitter_username: charliewood_atx
 
