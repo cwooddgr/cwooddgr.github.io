@@ -28,7 +28,7 @@ baseurl: ""
 twitter_username: charliewood_dgr
 
 # Build settings
-theme: minima
+theme: lanyon
 plugins:
   - jekyll-feed
 
