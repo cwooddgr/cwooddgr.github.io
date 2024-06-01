@@ -28,7 +28,7 @@ suffering and have a similarly aligned government, which from the vantage point 
 seem realistic.
 
 So we can go on making the assumption that everyone's economic needs will be magically taken care of
-once all (or most, or even a significant portio of) the jobs have been automated away, or we can have
+once all (or most, or even a significant portion of) the jobs have been automated away, or we can have
 the hard conversations about how exactly we expect to handle such a radical upheaval.
 
 I certainly don't have the answer but we better start working on it.
